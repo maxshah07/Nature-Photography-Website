@@ -1,2 +1,1 @@
-# Nature-Photography-Website
-Company info website with gallery and quote form that calculates an estimated price from user inputs.
+Wildlens is a fictional nature photography company. They provide a service in which they take professional photographs of nature for customers. They use the website to give a brief overview of who they are and what they do, provide example images in their gallery page, allow customers to contact them through their contact page and so that customers can receive a quote price for their demands. The scenario was chosen because the assignment tasks aligned with something a nature photography website would include
